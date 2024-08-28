@@ -1,0 +1,78 @@
+{
+    "movies": [
+        {
+            "_id": 1,
+            "title": "Inception",
+            "duration": "02:28:00",
+            "genre": "Sci-Fi",
+            "actors": [
+                {
+                    "actor_id": 1,
+                    "character_name": "Dom Cobb"
+                }
+            ]
+        },
+        {
+            "_id": 2,
+            "title": "Lucifer",
+            "duration": "03:00:00",
+            "genre": "Drama",
+            "actors": [
+                {
+                    "actor_id": 2,
+                    "character_name": "Lucifer Morningstar"
+                }
+            ]
+        },
+        {
+            "_id": 3,
+            "title": "The Mummy",
+            "duration": "02:04:00",
+            "genre": "Adventure",
+            "actors": [
+                {
+                    "actor_id": 3,
+                    "character_name": "Rick O'Connell"
+                }
+            ]
+        },
+        {
+            "_id": 4,
+            "title": "Mad Max: Fury Road",
+            "duration": "02:00:00",
+            "genre": "Action",
+            "actors": [
+                {
+                    "actor_id": 4,
+                    "character_name": "Max Rockatansky"
+                }
+            ]
+        }
+    ],
+    "actors": [
+        {
+            "_id": 1,
+            "name": "Leonardo",
+            "surname": "DiCaprio",
+            "birthdate": "1974-11-11T00:00:00Z"
+        },
+        {
+            "_id": 2,
+            "name": "Tom",
+            "surname": "Ellis",
+            "birthdate": "1981-02-17T00:00:00Z"
+        },
+        {
+            "_id": 3,
+            "name": "Brendan",
+            "surname": "Fraser",
+            "birthdate": "1968-12-03T00:00:00Z"
+        },
+        {
+            "_id": 4,
+            "name": "Tom",
+            "surname": "Hardy",
+            "birthdate": "1977-09-15T00:00:00Z"
+        }
+    ]
+}
